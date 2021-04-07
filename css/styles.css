@@ -1,0 +1,74 @@
+.fondobar{
+    background-color:rgb(0, 216, 151);
+}
+
+.fondo{
+    background-color: rgb(56, 56, 56);
+}
+
+.container1{
+    background-color: rgb(255, 255, 255);
+}
+
+.titulos{
+    font-weight: 600;
+}
+
+.imagencar{
+    width: 100px;
+    height: 200px;
+    
+}
+
+.containerspace{
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #081827;
+    color: #fff;
+    height: 100%;
+}
+.copyright {
+    background-color: #1a252f;
+  }
+
+.image2{
+    height: 200px;
+    width: 275px;
+}
+
+.fondo2{
+    background-color: rgb(255, 255, 255);
+}
+
+.text1{
+    text-align: right;
+}
+
+.border1{
+    border-style: solid;
+    border-radius: 5px;;
+}
+
+.border2{
+    border-color: rgb(0, 216, 151);
+}
+
+div.polaroid {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+
+.row1{
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+
+
