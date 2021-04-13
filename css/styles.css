@@ -28,17 +28,27 @@
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #081827;
+    background-color: #1d4061;
     color: #fff;
     height: 100%;
 }
 .copyright {
-    background-color: #1a252f;
+    background-color: #363636;
   }
 
 .image2{
     height: 200px;
-    width: 275px;
+    width: 300px;
+}
+
+.image3{
+    height: 180px;
+    width: 250px;
+}
+
+.image4{
+    height: 250px;
+    width: 250px;
 }
 
 .fondo2{
@@ -56,6 +66,7 @@
 
 .border2{
     border-color: rgb(0, 216, 151);
+    padding: 20px;
 }
 
 div.polaroid {
@@ -70,5 +81,63 @@ div.polaroid {
     padding: 10px 20px;
   }
 
+.redessociales{
+    width: 50px;
+    height: 50px;
+}
 
+.banner{
+    width: 600px;
+    height: 200px;
+    }
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+.quienes1{
+
+    background-color: #1d4061;
+
+      }
+.quienes2{
+
+    background-color: aquamarine;
+
+      }
+.panoramica{
+
+    width: 1200px;
+    height: 300px;
+}
+
+.spoiler
+    {
+    border:1px solid #ddd;
+    padding:3px;
+    }
+.spoiler .inner
+    {
+    border:1px solid #eee;
+    padding:3px;margin:3px;
+    }
+
+.tachado{
+    text-decoration: line-through;
+}
+
+.precio{
+    color: rgb(177, 19, 19);
+}
+
+.quienessomos{
+    color: #eee;
+}
+
+.logonav{
+    height: 75px;
+    width: 75px;
+}
 
